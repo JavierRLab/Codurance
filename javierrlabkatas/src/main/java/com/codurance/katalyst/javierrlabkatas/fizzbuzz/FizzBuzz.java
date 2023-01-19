@@ -1,4 +1,4 @@
-package com.codurance.katalyst.javierrlabkatas;
+package com.codurance.katalyst.javierrlabkatas.fizzbuzz;
 
 public class FizzBuzz {
 
